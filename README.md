@@ -1,15 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Dependencies
-@chakra-ui/react
-@emotion/react 
-@emotion/styled 
-axios 
-framer-motion 
-millify 
-nprogress 
-react-horizontal-scrolling-menu
-react-icons
+- @chakra-ui/react
+- @emotion/react 
+- @emotion/styled 
+- axios 
+- framer-motion 
+- millify 
+- nprogress 
+- react-horizontal-scrolling-menu
+- react-icons
 
 ## Getting Started
 
