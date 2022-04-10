@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Hosting
+As this is a nextjs project it can be easily hosted on Vercel for live use.
+
 ## Dependencies
 - @chakra-ui/react
 - @emotion/react 
