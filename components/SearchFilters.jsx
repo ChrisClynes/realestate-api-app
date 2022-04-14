@@ -16,7 +16,7 @@ const SearchFilters = () => {
         
 
         values.forEach((item) => {
-            if(item.value && filterValues?.[item.name]) {
+            if(item.value && filterValues?.[item.name]) {//only allows filters chosen to be added to url instead of all values. this is then used to query
               query[item.name] = item.value
             }
           })
